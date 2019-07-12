@@ -20,3 +20,6 @@ Data Science - [@KleoP](https://github.com/KleoP)
 Nikema Prophet<br />
 Web Development - [@prophen](https://github.com/prophen)
 
+Maygan Hooper<br />
+Web Development/Software Engineer - [@mhooper93](https://github.com/mhooper93)
+
